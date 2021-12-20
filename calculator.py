@@ -2,6 +2,8 @@ import ply.lex as lex
 import ply.yacc as yacc 
 import sys
  
+ #This is not not fully functioning, but it's a calculator hehehe you can use variable assign like a = 3 ..
+ 
 # Making the LEXER 
 
 tokens = [
